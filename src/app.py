@@ -61,10 +61,13 @@ class RAGAssistant:
 
         self.vector_db = VectorDB()
 
-        # TODO:
-        # Load the production prompt from prompts/system_prompt.txt
-        # and create the ChatPromptTemplate.
-        self.prompt_template = None
+        with open("prompts/system_prompt.txt", "r", encoding="utf-8") as f:
+            system_prompt = f.read()
+
+        self.prompt_template = ChatPromptTemplate.from_messages([
+            ("system", system_prompt + "\n\nRetrieved Context:\n{context}"),
+            ("human", "{question}")
+        ])
 
         if self.prompt_template is not None:
             self.chain = (
