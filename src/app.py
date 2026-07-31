@@ -4,7 +4,8 @@ from typing import List
 
 from dotenv import load_dotenv
 from langchain_core.output_parsers import StrOutputParser
-from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
+from langchain_core.messages import HumanMessage, AIMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_groq import ChatGroq
 from langchain_openai import ChatOpenAI
@@ -61,11 +62,14 @@ class RAGAssistant:
 
         self.vector_db = VectorDB()
 
+        self.chat_history = []
+
         with open("prompts/system_prompt.txt", "r", encoding="utf-8") as f:
             system_prompt = f.read()
 
         self.prompt_template = ChatPromptTemplate.from_messages([
             ("system", system_prompt + "\n\nRetrieved Context:\n{context}"),
+            MessagesPlaceholder(variable_name="chat_history"),
             ("human", "{question}")
         ])
 
@@ -174,8 +178,17 @@ class RAGAssistant:
         if self.chain:
             response = self.chain.invoke({
                 "context": context,
+                "chat_history": self.chat_history,
                 "question": question
             })
+            
+            self.chat_history.append(HumanMessage(content=question))
+            self.chat_history.append(AIMessage(content=response))
+            
+            # Keep history to last 10 messages (5 conversational turns) to prevent token overflow
+            if len(self.chat_history) > 10:
+                self.chat_history = self.chat_history[-10:]
+                
             return response
         else:
             return "LangChain pipeline is not initialized."
