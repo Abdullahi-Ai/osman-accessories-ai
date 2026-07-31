@@ -162,13 +162,23 @@ class RAGAssistant:
             AI-generated response.
         """
 
-        # TODO:
-        # 1. Retrieve relevant chunks from ChromaDB.
-        # 2. Build the context.
-        # 3. Invoke the LangChain pipeline.
-        # 4. Return the generated answer.
+        results = self.vector_db.search(query=question, n_results=n_results)
+        
+        context = ""
+        if results and results.get("documents") and results["documents"]:
+            # ChromaDB returns a list of lists since we can query multiple embeddings
+            # We only passed one query, so we take the first list of documents
+            retrieved_chunks = results["documents"][0]
+            context = "\n\n".join(retrieved_chunks)
 
-        return ""
+        if self.chain:
+            response = self.chain.invoke({
+                "context": context,
+                "question": question
+            })
+            return response
+        else:
+            return "LangChain pipeline is not initialized."
 
 
 

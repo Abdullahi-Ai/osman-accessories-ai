@@ -103,9 +103,33 @@ class VectorDB:
 
         logger.info("Processing %d documents...", len(documents))
 
-        # TODO:
-        # Implement document chunking, embedding generation,
-        # and storage in ChromaDB.
+        all_chunks = []
+        all_metadatas = []
+        all_ids = []
+
+        for doc_idx, doc in enumerate(documents):
+            chunks = self.chunk_text(doc.get("content", ""))
+            for chunk_idx, chunk in enumerate(chunks):
+                all_chunks.append(chunk)
+                metadata = doc.get("metadata", {}).copy()
+                metadata["chunk_idx"] = chunk_idx
+                all_metadatas.append(metadata)
+                all_ids.append(f"doc_{doc_idx}_chunk_{chunk_idx}")
+
+        if not all_chunks:
+            logger.info("No documents to add.")
+            return
+
+        embeddings = self.embedding_model.encode(all_chunks).tolist()
+
+        # ChromaDB requires lists of IDs, embeddings, metadatas, and documents
+        # We can add in batches if needed, but for small datasets this is fine
+        self.collection.add(
+            ids=all_ids,
+            embeddings=embeddings,
+            metadatas=all_metadatas,
+            documents=all_chunks
+        )
 
         logger.info("Documents added to vector database.")
 
@@ -118,12 +142,11 @@ class VectorDB:
         Search for similar documents.
         """
 
-        # TODO:
-        # Implement semantic search using ChromaDB.
+        query_embedding = self.embedding_model.encode([query]).tolist()
 
-        return {
-            "documents": [],
-            "metadatas": [],
-            "distances": [],
-            "ids": [],
-        }
+        results = self.collection.query(
+            query_embeddings=query_embedding,
+            n_results=n_results,
+        )
+
+        return results
