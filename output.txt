@@ -1,0 +1,44 @@
+INFO:app:Using Groq model: llama-3.1-8b-instant
+INFO:vectordb:Initializing ChromaDB...
+INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO:vectordb:Loading embedding model: sentence-transformers/all-MiniLM-L6-v2
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+INFO:vectordb:Vector database initialized with collection: rag_documents
+INFO:app:RAG Assistant initialized successfully.
+INFO:vectordb:Processing 10 documents...
+Initializing...
+Loading docs...
+Batches:   0%|          | 0/6 [00:00<?, ?it/s]Batches:  17%|█▋        | 1/6 [00:00<00:03,  1.49it/s]Batches:  33%|███▎      | 2/6 [00:01<00:03,  1.33it/s]Batches:  50%|█████     | 3/6 [00:02<00:02,  1.30it/s]Batches:  67%|██████▋   | 4/6 [00:02<00:01,  1.37it/s]Batches:  83%|████████▎ | 5/6 [00:03<00:00,  1.42it/s]Batches: 100%|██████████| 6/6 [00:03<00:00,  1.62it/s]
+INFO:vectordb:Documents added to vector database.
+Invoking...
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|██████████| 1/1 [00:00<00:00, 119.10it/s]
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+I've found some Samsung phones in our current business knowledge base. Here are a few options:
+
+1. **Samsung Galaxy A24**
+	* Price: 165,000 KES
+	* Availability: In Stock
+	* Warranty: 12-month warranty
+	* Display: 6.8 inches, 120Hz AMOLED
+	* Processor: Octa-core processor
+	* RAM: 6GB
+	* Storage: 128GB
+2. **Samsung Galaxy A54 (Variant 16)**
+	* Price: 171,000 KES
+	* Availability: In Stock
+	* Warranty: 12-month warranty
+	* Display: 6.5 inches, 120Hz AMOLED
+	* Processor: Octa-core processor
+	* RAM: 12GB
+	* Storage: 256GB
+3. **Samsung Galaxy S24+ (Variant 12)**
+	* Price: 168,000 KES
+	* Availability: In Stock
+	* Warranty: 12-month warranty
+	* Display: 6.4 inches, 120Hz AMOLED
+	* Processor: Octa-core processor
+	* RAM: 8GB
+	* Storage: 64GB
+
+Would you like me to compare any of these products or would you like to search for a different Samsung phone?

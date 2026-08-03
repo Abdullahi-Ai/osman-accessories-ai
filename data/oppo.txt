@@ -1,0 +1,330 @@
+Brand: OPPO
+Model: Find X6 Pro
+Category: Smartphones
+Price (KES): 90,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 6GB
+Storage: 512GB
+Rear Camera: 64MP+2MP
+Front Camera: 12MP
+Battery: 5500mAh
+Charging: 67W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: OPPO Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine OPPO smartphone offering exceptional performance.
+
+Brand: OPPO
+Model: Find N3
+Category: Smartphones
+Price (KES): 168,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.6 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 8GB
+Storage: 128GB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 16MP
+Battery: 4500mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: OPPO Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine OPPO smartphone offering exceptional performance.
+
+Brand: OPPO
+Model: Reno 10 Pro+
+Category: Smartphones
+Price (KES): 29,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.6 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 12GB
+Storage: 512GB
+Rear Camera: 64MP+2MP
+Front Camera: 12MP
+Battery: 4500mAh
+Charging: 67W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: OPPO Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine OPPO smartphone offering exceptional performance.
+
+Brand: OPPO
+Model: Reno 10 Pro
+Category: Smartphones
+Price (KES): 130,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 6GB
+Storage: 128GB
+Rear Camera: 108MP+8MP+2MP
+Front Camera: 50MP
+Battery: 4500mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: OPPO Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine OPPO smartphone offering exceptional performance.
+
+Brand: OPPO
+Model: Reno 10
+Category: Smartphones
+Price (KES): 106,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.7 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 4GB
+Storage: 512GB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 12MP
+Battery: 5500mAh
+Charging: 67W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: OPPO Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine OPPO smartphone offering exceptional performance.
+
+Brand: OPPO
+Model: A78
+Category: Smartphones
+Price (KES): 123,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 4GB
+Storage: 256GB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 16MP
+Battery: 4500mAh
+Charging: 67W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: OPPO Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine OPPO smartphone offering exceptional performance.
+
+Brand: OPPO
+Model: A58
+Category: Smartphones
+Price (KES): 102,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.5 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 12GB
+Storage: 256GB
+Rear Camera: 64MP+2MP
+Front Camera: 16MP
+Battery: 5500mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: OPPO Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine OPPO smartphone offering exceptional performance.
+
+Brand: OPPO
+Model: A38
+Category: Smartphones
+Price (KES): 178,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.5 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 16GB
+Storage: 512GB
+Rear Camera: 108MP+8MP+2MP
+Front Camera: 50MP
+Battery: 5500mAh
+Charging: 45W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: OPPO Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine OPPO smartphone offering exceptional performance.
+
+Brand: OPPO
+Model: A17k
+Category: Smartphones
+Price (KES): 54,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 4GB
+Storage: 256GB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 50MP
+Battery: 5500mAh
+Charging: 67W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: OPPO Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine OPPO smartphone offering exceptional performance.
+
+Brand: OPPO
+Model: Find X6 Pro (Variant 10)
+Category: Smartphones
+Price (KES): 155,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 4GB
+Storage: 64GB
+Rear Camera: 108MP+8MP+2MP
+Front Camera: 50MP
+Battery: 5500mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: OPPO Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine OPPO smartphone offering exceptional performance.
+
+Brand: OPPO
+Model: Find N3 (Variant 11)
+Category: Smartphones
+Price (KES): 108,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.5 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 8GB
+Storage: 512GB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 16MP
+Battery: 5500mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: OPPO Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine OPPO smartphone offering exceptional performance.
+
+Brand: OPPO
+Model: Reno 10 Pro+ (Variant 12)
+Category: Smartphones
+Price (KES): 81,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.5 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 6GB
+Storage: 1TB
+Rear Camera: 108MP+8MP+2MP
+Front Camera: 50MP
+Battery: 4500mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: OPPO Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine OPPO smartphone offering exceptional performance.
+
+Brand: OPPO
+Model: Reno 10 Pro (Variant 13)
+Category: Smartphones
+Price (KES): 44,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.7 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 6GB
+Storage: 128GB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 16MP
+Battery: 5000mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: OPPO Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine OPPO smartphone offering exceptional performance.
+
+Brand: OPPO
+Model: Reno 10 (Variant 14)
+Category: Smartphones
+Price (KES): 44,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 4GB
+Storage: 512GB
+Rear Camera: 64MP+2MP
+Front Camera: 32MP
+Battery: 4500mAh
+Charging: 67W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: OPPO Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine OPPO smartphone offering exceptional performance.
+
+Brand: OPPO
+Model: A78 (Variant 15)
+Category: Smartphones
+Price (KES): 26,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.5 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 8GB
+Storage: 128GB
+Rear Camera: 108MP+8MP+2MP
+Front Camera: 50MP
+Battery: 5000mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: OPPO Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine OPPO smartphone offering exceptional performance.
+

@@ -1,0 +1,22 @@
+Service Name: Product Consultation
+Description: Professional advice to help you choose the right smartphone or accessory.
+
+Service Name: Smartphone Recommendations
+Description: Personalized smartphone recommendations based on your needs and budget.
+
+Service Name: Screen Protector Installation
+Description: Professional installation of screen protectors for all devices.
+
+Service Name: Phone Setup
+Description: Complete setup of your new smartphone to get you started.
+
+Service Name: Data Transfer Assistance
+Description: Assistance with transferring data from your old phone to your new phone.
+
+Service Name: Accessory Recommendations
+Description: Expert advice on finding the best compatible accessories for your device.
+
+Service Name: After-Sales Support
+Description: Dedicated support for all products purchased from our store.
+
+Important Note regarding Phone Repairs: Khalid & Osman Accessories DOES NOT repair phones. If you require phone repair, we do not provide this service internally, but we can recommend trusted professional repair technicians.

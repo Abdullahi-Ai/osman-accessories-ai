@@ -10,12 +10,14 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_groq import ChatGroq
 from langchain_openai import ChatOpenAI
 
-from vectordb import VectorDB
+from src.vectordb import VectorDB
 
-# Load environment variables
-load_dotenv()
 
-# Configure logging
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+dotenv_path = os.path.join(BASE_DIR, ".env")
+load_dotenv(dotenv_path)
+
+
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
@@ -28,7 +30,7 @@ def load_documents() -> List[dict]:
         List of document dictionaries containing content and metadata.
     """
     documents = []
-    data_dir = "data"
+    data_dir = os.path.join(BASE_DIR, "data")
 
     for filename in os.listdir(data_dir):
         if filename.endswith(".txt"):
@@ -64,7 +66,8 @@ class RAGAssistant:
 
         self.chat_history = []
 
-        with open("prompts/system_prompt.txt", "r", encoding="utf-8") as f:
+        prompt_path = os.path.join(BASE_DIR, "prompts", "system_prompt.txt")
+        with open(prompt_path, "r", encoding="utf-8") as f:
             system_prompt = f.read()
 
         self.prompt_template = ChatPromptTemplate.from_messages([
@@ -170,8 +173,8 @@ class RAGAssistant:
         
         context = ""
         if results and results.get("documents") and results["documents"]:
-            # ChromaDB returns a list of lists since we can query multiple embeddings
-            # We only passed one query, so we take the first list of documents
+            
+            
             retrieved_chunks = results["documents"][0]
             context = "\n\n".join(retrieved_chunks)
 
@@ -185,7 +188,7 @@ class RAGAssistant:
             self.chat_history.append(HumanMessage(content=question))
             self.chat_history.append(AIMessage(content=response))
             
-            # Keep history to last 10 messages (5 conversational turns) to prevent token overflow
+            
             if len(self.chat_history) > 10:
                 self.chat_history = self.chat_history[-10:]
                 

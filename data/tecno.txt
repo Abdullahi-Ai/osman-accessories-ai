@@ -1,0 +1,330 @@
+Brand: Tecno
+Model: Phantom V Fold
+Category: Smartphones
+Price (KES): 106,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.7 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 6GB
+Storage: 256GB
+Rear Camera: 108MP+8MP+2MP
+Front Camera: 50MP
+Battery: 5500mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Tecno Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Tecno smartphone offering exceptional performance.
+
+Brand: Tecno
+Model: Phantom X2 Pro
+Category: Smartphones
+Price (KES): 41,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.6 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 16GB
+Storage: 64GB
+Rear Camera: 108MP+8MP+2MP
+Front Camera: 50MP
+Battery: 5000mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Tecno Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Tecno smartphone offering exceptional performance.
+
+Brand: Tecno
+Model: Camon 20 Premier
+Category: Smartphones
+Price (KES): 78,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 12GB
+Storage: 64GB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 32MP
+Battery: 5000mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Tecno Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Tecno smartphone offering exceptional performance.
+
+Brand: Tecno
+Model: Camon 20 Pro
+Category: Smartphones
+Price (KES): 145,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.6 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 8GB
+Storage: 64GB
+Rear Camera: 108MP+8MP+2MP
+Front Camera: 32MP
+Battery: 4500mAh
+Charging: 45W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Tecno Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Tecno smartphone offering exceptional performance.
+
+Brand: Tecno
+Model: Camon 20
+Category: Smartphones
+Price (KES): 23,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.6 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 12GB
+Storage: 512GB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 32MP
+Battery: 4500mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Tecno Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Tecno smartphone offering exceptional performance.
+
+Brand: Tecno
+Model: Spark 10 Pro
+Category: Smartphones
+Price (KES): 85,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.6 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 8GB
+Storage: 1TB
+Rear Camera: 108MP+8MP+2MP
+Front Camera: 12MP
+Battery: 5500mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Tecno Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Tecno smartphone offering exceptional performance.
+
+Brand: Tecno
+Model: Spark 10C
+Category: Smartphones
+Price (KES): 134,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 12GB
+Storage: 1TB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 32MP
+Battery: 5000mAh
+Charging: 67W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Tecno Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Tecno smartphone offering exceptional performance.
+
+Brand: Tecno
+Model: Pop 7 Pro
+Category: Smartphones
+Price (KES): 92,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.5 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 6GB
+Storage: 64GB
+Rear Camera: 64MP+2MP
+Front Camera: 50MP
+Battery: 5000mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Tecno Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Tecno smartphone offering exceptional performance.
+
+Brand: Tecno
+Model: Phantom V Fold (Variant 9)
+Category: Smartphones
+Price (KES): 174,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 4GB
+Storage: 256GB
+Rear Camera: 64MP+2MP
+Front Camera: 32MP
+Battery: 5000mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Tecno Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Tecno smartphone offering exceptional performance.
+
+Brand: Tecno
+Model: Phantom X2 Pro (Variant 10)
+Category: Smartphones
+Price (KES): 48,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 12GB
+Storage: 256GB
+Rear Camera: 108MP+8MP+2MP
+Front Camera: 12MP
+Battery: 5000mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Tecno Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Tecno smartphone offering exceptional performance.
+
+Brand: Tecno
+Model: Camon 20 Premier (Variant 11)
+Category: Smartphones
+Price (KES): 105,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 4GB
+Storage: 128GB
+Rear Camera: 108MP+8MP+2MP
+Front Camera: 32MP
+Battery: 5000mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Tecno Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Tecno smartphone offering exceptional performance.
+
+Brand: Tecno
+Model: Camon 20 Pro (Variant 12)
+Category: Smartphones
+Price (KES): 82,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.6 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 6GB
+Storage: 256GB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 50MP
+Battery: 5000mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Tecno Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Tecno smartphone offering exceptional performance.
+
+Brand: Tecno
+Model: Camon 20 (Variant 13)
+Category: Smartphones
+Price (KES): 15,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.7 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 16GB
+Storage: 1TB
+Rear Camera: 108MP+8MP+2MP
+Front Camera: 16MP
+Battery: 5500mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Tecno Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Tecno smartphone offering exceptional performance.
+
+Brand: Tecno
+Model: Spark 10 Pro (Variant 14)
+Category: Smartphones
+Price (KES): 85,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.6 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 4GB
+Storage: 64GB
+Rear Camera: 108MP+8MP+2MP
+Front Camera: 12MP
+Battery: 5500mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Tecno Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Tecno smartphone offering exceptional performance.
+
+Brand: Tecno
+Model: Spark 10C (Variant 15)
+Category: Smartphones
+Price (KES): 180,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 16GB
+Storage: 256GB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 32MP
+Battery: 5000mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Tecno Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Tecno smartphone offering exceptional performance.
+

@@ -5,12 +5,12 @@ from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
-from app import RAGAssistant, load_documents
+from src.app import RAGAssistant, load_documents
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Global assistant variable
+
 assistant = None
 
 @asynccontextmanager
@@ -30,7 +30,7 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(title="Osman AI API", lifespan=lifespan)
 
-# Allow CORS for React frontend (which will likely run on localhost:5173 or 3000)
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -55,7 +55,7 @@ async def chat_endpoint(request: ChatRequest):
         answer = assistant.invoke(request.message)
         return ChatResponse(reply=answer)
     except Exception as e:
-        logger.error(f"Error during chat: {e}")
+        logger.exception("Error during chat:")
         return ChatResponse(reply="I'm sorry, I encountered an error while processing your request. Please try again.")
 
 @app.get("/api/health")

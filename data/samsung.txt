@@ -1,0 +1,440 @@
+Brand: Samsung
+Model: Galaxy S24 Ultra
+Category: Smartphones
+Price (KES): 22,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.7 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 4GB
+Storage: 1TB
+Rear Camera: 64MP+2MP
+Front Camera: 12MP
+Battery: 5000mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy S24+
+Category: Smartphones
+Price (KES): 173,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 8GB
+Storage: 128GB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 12MP
+Battery: 4500mAh
+Charging: 67W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy S24
+Category: Smartphones
+Price (KES): 147,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.5 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 16GB
+Storage: 128GB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 12MP
+Battery: 5500mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy Z Fold 5
+Category: Smartphones
+Price (KES): 47,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 6GB
+Storage: 256GB
+Rear Camera: 64MP+2MP
+Front Camera: 16MP
+Battery: 5500mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy Z Flip 5
+Category: Smartphones
+Price (KES): 152,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.6 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 4GB
+Storage: 1TB
+Rear Camera: 64MP+2MP
+Front Camera: 50MP
+Battery: 5500mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy A54
+Category: Smartphones
+Price (KES): 103,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 16GB
+Storage: 128GB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 16MP
+Battery: 4500mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy A34
+Category: Smartphones
+Price (KES): 163,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 12GB
+Storage: 64GB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 12MP
+Battery: 4500mAh
+Charging: 67W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy A24
+Category: Smartphones
+Price (KES): 165,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 6GB
+Storage: 64GB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 16MP
+Battery: 4500mAh
+Charging: 67W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy A14
+Category: Smartphones
+Price (KES): 108,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.5 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 4GB
+Storage: 1TB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 16MP
+Battery: 5000mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy A04
+Category: Smartphones
+Price (KES): 75,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 6GB
+Storage: 256GB
+Rear Camera: 108MP+8MP+2MP
+Front Camera: 16MP
+Battery: 5500mAh
+Charging: 45W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy S24 Ultra (Variant 11)
+Category: Smartphones
+Price (KES): 69,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.7 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 8GB
+Storage: 512GB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 12MP
+Battery: 5500mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy S24+ (Variant 12)
+Category: Smartphones
+Price (KES): 168,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 8GB
+Storage: 64GB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 12MP
+Battery: 4500mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy S24 (Variant 13)
+Category: Smartphones
+Price (KES): 88,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 16GB
+Storage: 256GB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 50MP
+Battery: 5500mAh
+Charging: 45W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy Z Fold 5 (Variant 14)
+Category: Smartphones
+Price (KES): 126,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 8GB
+Storage: 1TB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 50MP
+Battery: 5500mAh
+Charging: 45W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy Z Flip 5 (Variant 15)
+Category: Smartphones
+Price (KES): 39,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 16GB
+Storage: 1TB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 50MP
+Battery: 4500mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy A54 (Variant 16)
+Category: Smartphones
+Price (KES): 171,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.5 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 12GB
+Storage: 256GB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 12MP
+Battery: 5500mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy A34 (Variant 17)
+Category: Smartphones
+Price (KES): 21,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 8GB
+Storage: 1TB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 50MP
+Battery: 4500mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy A24 (Variant 18)
+Category: Smartphones
+Price (KES): 19,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.7 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 8GB
+Storage: 256GB
+Rear Camera: 64MP+2MP
+Front Camera: 32MP
+Battery: 5000mAh
+Charging: 67W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy A14 (Variant 19)
+Category: Smartphones
+Price (KES): 77,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.7 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 6GB
+Storage: 64GB
+Rear Camera: 64MP+2MP
+Front Camera: 32MP
+Battery: 5000mAh
+Charging: 45W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+
+Brand: Samsung
+Model: Galaxy A04 (Variant 20)
+Category: Smartphones
+Price (KES): 21,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.7 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 8GB
+Storage: 512GB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 12MP
+Battery: 5000mAh
+Charging: 45W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Samsung Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Samsung smartphone offering exceptional performance.
+

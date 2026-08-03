@@ -1,0 +1,330 @@
+Brand: Infinix
+Model: Zero Ultra
+Category: Smartphones
+Price (KES): 37,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 4GB
+Storage: 512GB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 16MP
+Battery: 5000mAh
+Charging: 67W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Infinix Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Infinix smartphone offering exceptional performance.
+
+Brand: Infinix
+Model: Zero 30 5G
+Category: Smartphones
+Price (KES): 62,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.6 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 16GB
+Storage: 256GB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 16MP
+Battery: 5000mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Infinix Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Infinix smartphone offering exceptional performance.
+
+Brand: Infinix
+Model: Note 30 VIP
+Category: Smartphones
+Price (KES): 49,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 4GB
+Storage: 1TB
+Rear Camera: 64MP+2MP
+Front Camera: 12MP
+Battery: 4500mAh
+Charging: 45W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Infinix Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Infinix smartphone offering exceptional performance.
+
+Brand: Infinix
+Model: Note 30 Pro
+Category: Smartphones
+Price (KES): 59,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 16GB
+Storage: 256GB
+Rear Camera: 64MP+2MP
+Front Camera: 12MP
+Battery: 4500mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Infinix Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Infinix smartphone offering exceptional performance.
+
+Brand: Infinix
+Model: Note 30
+Category: Smartphones
+Price (KES): 20,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 12GB
+Storage: 64GB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 12MP
+Battery: 4500mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Infinix Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Infinix smartphone offering exceptional performance.
+
+Brand: Infinix
+Model: Hot 40 Pro
+Category: Smartphones
+Price (KES): 59,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 16GB
+Storage: 128GB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 50MP
+Battery: 5500mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Infinix Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Infinix smartphone offering exceptional performance.
+
+Brand: Infinix
+Model: Hot 40i
+Category: Smartphones
+Price (KES): 143,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 16GB
+Storage: 256GB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 16MP
+Battery: 5000mAh
+Charging: 67W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Infinix Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Infinix smartphone offering exceptional performance.
+
+Brand: Infinix
+Model: Smart 8
+Category: Smartphones
+Price (KES): 19,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.6 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 4GB
+Storage: 128GB
+Rear Camera: 64MP+2MP
+Front Camera: 50MP
+Battery: 4500mAh
+Charging: 45W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Infinix Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Infinix smartphone offering exceptional performance.
+
+Brand: Infinix
+Model: Zero Ultra (Variant 9)
+Category: Smartphones
+Price (KES): 96,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 6GB
+Storage: 64GB
+Rear Camera: 64MP+2MP
+Front Camera: 32MP
+Battery: 5000mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Infinix Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Infinix smartphone offering exceptional performance.
+
+Brand: Infinix
+Model: Zero 30 5G (Variant 10)
+Category: Smartphones
+Price (KES): 62,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 16GB
+Storage: 512GB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 50MP
+Battery: 4500mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Infinix Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Infinix smartphone offering exceptional performance.
+
+Brand: Infinix
+Model: Note 30 VIP (Variant 11)
+Category: Smartphones
+Price (KES): 164,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.6 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 8GB
+Storage: 1TB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 32MP
+Battery: 4500mAh
+Charging: 67W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Infinix Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Infinix smartphone offering exceptional performance.
+
+Brand: Infinix
+Model: Note 30 Pro (Variant 12)
+Category: Smartphones
+Price (KES): 15,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.5 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 8GB
+Storage: 512GB
+Rear Camera: 64MP+2MP
+Front Camera: 16MP
+Battery: 4500mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Infinix Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Infinix smartphone offering exceptional performance.
+
+Brand: Infinix
+Model: Note 30 (Variant 13)
+Category: Smartphones
+Price (KES): 50,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 16GB
+Storage: 1TB
+Rear Camera: 50MP+12MP+10MP
+Front Camera: 16MP
+Battery: 4500mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Infinix Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Infinix smartphone offering exceptional performance.
+
+Brand: Infinix
+Model: Hot 40 Pro (Variant 14)
+Category: Smartphones
+Price (KES): 37,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.8 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 8GB
+Storage: 1TB
+Rear Camera: 200MP+50MP+12MP
+Front Camera: 32MP
+Battery: 5500mAh
+Charging: 120W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Infinix Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Infinix smartphone offering exceptional performance.
+
+Brand: Infinix
+Model: Hot 40i (Variant 15)
+Category: Smartphones
+Price (KES): 77,000
+Availability: In Stock
+Warranty: 12-month warranty
+Display: 6.4 inches, 120Hz AMOLED
+Processor: Octa-core processor
+RAM: 16GB
+Storage: 128GB
+Rear Camera: 108MP+8MP+2MP
+Front Camera: 32MP
+Battery: 5000mAh
+Charging: 25W Fast Charging
+Operating System: Android 14 / Custom UI
+Network: 5G / 4G LTE
+Bluetooth: v5.3
+Wi-Fi: Wi-Fi 6 / 6E
+Available Colours: Black, White, Blue, Silver
+Compatible Accessories: Infinix Original Cases, Type-C Cables, Wireless Earbuds
+Description: A genuine Infinix smartphone offering exceptional performance.
+

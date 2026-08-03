@@ -30,9 +30,11 @@ class VectorDB:
             "sentence-transformers/all-MiniLM-L6-v2",
         )
 
+        BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        
         self.db_path = os.getenv(
             "CHROMA_DB_PATH",
-            "./chroma_db",
+            os.path.join(BASE_DIR, "chroma_db"),
         )
 
         logger.info("Initializing ChromaDB...")
@@ -122,8 +124,7 @@ class VectorDB:
 
         embeddings = self.embedding_model.encode(all_chunks).tolist()
 
-        # ChromaDB requires lists of IDs, embeddings, metadatas, and documents
-        # We can add in batches if needed, but for small datasets this is fine
+
         self.collection.add(
             ids=all_ids,
             embeddings=embeddings,

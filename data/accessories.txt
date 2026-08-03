@@ -1,0 +1,900 @@
+Category: Lightning Cables
+Brand: Generic
+Model: Generic Lightning Cables Pro
+Price (KES): 3,700
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality lightning cables designed for durability and seamless daily use.
+
+Category: Power Banks
+Brand: Ugreen
+Model: Ugreen Power Banks Pro
+Price (KES): 6,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality power banks designed for durability and seamless daily use.
+
+Category: SIM Accessories
+Brand: JBL
+Model: JBL SIM Accessories Pro
+Price (KES): 11,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality sim accessories designed for durability and seamless daily use.
+
+Category: Lightning Cables
+Brand: Baseus
+Model: Baseus Lightning Cables Pro
+Price (KES): 600
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality lightning cables designed for durability and seamless daily use.
+
+Category: Smart Watches
+Brand: Baseus
+Model: Baseus Smart Watches Pro
+Price (KES): 1,900
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality smart watches designed for durability and seamless daily use.
+
+Category: Bluetooth Speakers
+Brand: Generic
+Model: Generic Bluetooth Speakers Pro
+Price (KES): 5,100
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth speakers designed for durability and seamless daily use.
+
+Category: SIM Accessories
+Brand: Oraimo
+Model: Oraimo SIM Accessories Pro
+Price (KES): 2,300
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality sim accessories designed for durability and seamless daily use.
+
+Category: Camera Protectors
+Brand: Ugreen
+Model: Ugreen Camera Protectors Pro
+Price (KES): 11,900
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality camera protectors designed for durability and seamless daily use.
+
+Category: Phone Cases
+Brand: Oraimo
+Model: Oraimo Phone Cases Pro
+Price (KES): 14,300
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality phone cases designed for durability and seamless daily use.
+
+Category: Bluetooth Speakers
+Brand: Generic
+Model: Generic Bluetooth Speakers Pro
+Price (KES): 10,800
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth speakers designed for durability and seamless daily use.
+
+Category: Chargers
+Brand: Generic
+Model: Generic Chargers Pro
+Price (KES): 3,100
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality chargers designed for durability and seamless daily use.
+
+Category: Bluetooth Speakers
+Brand: Baseus
+Model: Baseus Bluetooth Speakers Pro
+Price (KES): 3,800
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth speakers designed for durability and seamless daily use.
+
+Category: Bluetooth Headphones
+Brand: Generic
+Model: Generic Bluetooth Headphones Pro
+Price (KES): 6,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth headphones designed for durability and seamless daily use.
+
+Category: Chargers
+Brand: JBL
+Model: JBL Chargers Pro
+Price (KES): 14,900
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality chargers designed for durability and seamless daily use.
+
+Category: Chargers
+Brand: Samsung
+Model: Samsung Chargers Pro
+Price (KES): 1,600
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality chargers designed for durability and seamless daily use.
+
+Category: Type-C Cables
+Brand: Ugreen
+Model: Ugreen Type-C Cables Pro
+Price (KES): 1,700
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality type-c cables designed for durability and seamless daily use.
+
+Category: Power Banks
+Brand: Sony
+Model: Sony Power Banks Pro
+Price (KES): 7,900
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality power banks designed for durability and seamless daily use.
+
+Category: Bluetooth Earbuds
+Brand: JBL
+Model: JBL Bluetooth Earbuds Pro
+Price (KES): 14,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth earbuds designed for durability and seamless daily use.
+
+Category: Chargers
+Brand: Generic
+Model: Generic Chargers Pro
+Price (KES): 5,500
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality chargers designed for durability and seamless daily use.
+
+Category: Smart Watches
+Brand: Ugreen
+Model: Ugreen Smart Watches Pro
+Price (KES): 5,900
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality smart watches designed for durability and seamless daily use.
+
+Category: Bluetooth Speakers
+Brand: Baseus
+Model: Baseus Bluetooth Speakers Pro
+Price (KES): 5,800
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth speakers designed for durability and seamless daily use.
+
+Category: Smart Watches
+Brand: Baseus
+Model: Baseus Smart Watches Pro
+Price (KES): 5,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality smart watches designed for durability and seamless daily use.
+
+Category: SIM Accessories
+Brand: JBL
+Model: JBL SIM Accessories Pro
+Price (KES): 13,800
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality sim accessories designed for durability and seamless daily use.
+
+Category: Memory Cards
+Brand: Ugreen
+Model: Ugreen Memory Cards Pro
+Price (KES): 14,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality memory cards designed for durability and seamless daily use.
+
+Category: SIM Accessories
+Brand: Baseus
+Model: Baseus SIM Accessories Pro
+Price (KES): 6,100
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality sim accessories designed for durability and seamless daily use.
+
+Category: Wireless Chargers
+Brand: Apple
+Model: Apple Wireless Chargers Pro
+Price (KES): 8,100
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality wireless chargers designed for durability and seamless daily use.
+
+Category: Bluetooth Speakers
+Brand: Sony
+Model: Sony Bluetooth Speakers Pro
+Price (KES): 7,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth speakers designed for durability and seamless daily use.
+
+Category: Bluetooth Speakers
+Brand: Ugreen
+Model: Ugreen Bluetooth Speakers Pro
+Price (KES): 13,300
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth speakers designed for durability and seamless daily use.
+
+Category: Memory Cards
+Brand: Oraimo
+Model: Oraimo Memory Cards Pro
+Price (KES): 1,800
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality memory cards designed for durability and seamless daily use.
+
+Category: Fast Chargers
+Brand: Baseus
+Model: Baseus Fast Chargers Pro
+Price (KES): 6,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality fast chargers designed for durability and seamless daily use.
+
+Category: Smart Watch Straps
+Brand: Oraimo
+Model: Oraimo Smart Watch Straps Pro
+Price (KES): 7,000
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality smart watch straps designed for durability and seamless daily use.
+
+Category: Bluetooth Earbuds
+Brand: Sony
+Model: Sony Bluetooth Earbuds Pro
+Price (KES): 600
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth earbuds designed for durability and seamless daily use.
+
+Category: Phone Cases
+Brand: Sony
+Model: Sony Phone Cases Pro
+Price (KES): 14,300
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality phone cases designed for durability and seamless daily use.
+
+Category: Memory Cards
+Brand: Samsung
+Model: Samsung Memory Cards Pro
+Price (KES): 9,300
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality memory cards designed for durability and seamless daily use.
+
+Category: Smart Watches
+Brand: Anker
+Model: Anker Smart Watches Pro
+Price (KES): 8,600
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality smart watches designed for durability and seamless daily use.
+
+Category: Type-C Cables
+Brand: Oraimo
+Model: Oraimo Type-C Cables Pro
+Price (KES): 7,900
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality type-c cables designed for durability and seamless daily use.
+
+Category: USB Cables
+Brand: Samsung
+Model: Samsung USB Cables Pro
+Price (KES): 7,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality usb cables designed for durability and seamless daily use.
+
+Category: Smart Watches
+Brand: Baseus
+Model: Baseus Smart Watches Pro
+Price (KES): 5,900
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality smart watches designed for durability and seamless daily use.
+
+Category: Chargers
+Brand: Apple
+Model: Apple Chargers Pro
+Price (KES): 11,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality chargers designed for durability and seamless daily use.
+
+Category: Type-C Cables
+Brand: Generic
+Model: Generic Type-C Cables Pro
+Price (KES): 2,500
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality type-c cables designed for durability and seamless daily use.
+
+Category: Bluetooth Headphones
+Brand: Ugreen
+Model: Ugreen Bluetooth Headphones Pro
+Price (KES): 8,700
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth headphones designed for durability and seamless daily use.
+
+Category: Chargers
+Brand: Oraimo
+Model: Oraimo Chargers Pro
+Price (KES): 12,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality chargers designed for durability and seamless daily use.
+
+Category: Screen Protectors
+Brand: Anker
+Model: Anker Screen Protectors Pro
+Price (KES): 14,300
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality screen protectors designed for durability and seamless daily use.
+
+Category: SIM Accessories
+Brand: Apple
+Model: Apple SIM Accessories Pro
+Price (KES): 4,500
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality sim accessories designed for durability and seamless daily use.
+
+Category: Screen Protectors
+Brand: Generic
+Model: Generic Screen Protectors Pro
+Price (KES): 5,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality screen protectors designed for durability and seamless daily use.
+
+Category: Chargers
+Brand: Apple
+Model: Apple Chargers Pro
+Price (KES): 1,600
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality chargers designed for durability and seamless daily use.
+
+Category: Screen Protectors
+Brand: Sony
+Model: Sony Screen Protectors Pro
+Price (KES): 800
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality screen protectors designed for durability and seamless daily use.
+
+Category: Screen Protectors
+Brand: Oraimo
+Model: Oraimo Screen Protectors Pro
+Price (KES): 5,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality screen protectors designed for durability and seamless daily use.
+
+Category: Lightning Cables
+Brand: Ugreen
+Model: Ugreen Lightning Cables Pro
+Price (KES): 1,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality lightning cables designed for durability and seamless daily use.
+
+Category: SIM Accessories
+Brand: Generic
+Model: Generic SIM Accessories Pro
+Price (KES): 9,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality sim accessories designed for durability and seamless daily use.
+
+Category: Memory Cards
+Brand: Oraimo
+Model: Oraimo Memory Cards Pro
+Price (KES): 8,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality memory cards designed for durability and seamless daily use.
+
+Category: Power Banks
+Brand: Generic
+Model: Generic Power Banks Pro
+Price (KES): 6,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality power banks designed for durability and seamless daily use.
+
+Category: Type-C Cables
+Brand: Ugreen
+Model: Ugreen Type-C Cables Pro
+Price (KES): 10,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality type-c cables designed for durability and seamless daily use.
+
+Category: Chargers
+Brand: Sony
+Model: Sony Chargers Pro
+Price (KES): 6,300
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality chargers designed for durability and seamless daily use.
+
+Category: Type-C Cables
+Brand: Anker
+Model: Anker Type-C Cables Pro
+Price (KES): 13,300
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality type-c cables designed for durability and seamless daily use.
+
+Category: Bluetooth Headphones
+Brand: Apple
+Model: Apple Bluetooth Headphones Pro
+Price (KES): 14,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth headphones designed for durability and seamless daily use.
+
+Category: Type-C Cables
+Brand: Baseus
+Model: Baseus Type-C Cables Pro
+Price (KES): 7,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality type-c cables designed for durability and seamless daily use.
+
+Category: Wireless Chargers
+Brand: Apple
+Model: Apple Wireless Chargers Pro
+Price (KES): 14,100
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality wireless chargers designed for durability and seamless daily use.
+
+Category: Memory Cards
+Brand: Baseus
+Model: Baseus Memory Cards Pro
+Price (KES): 9,600
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality memory cards designed for durability and seamless daily use.
+
+Category: Smart Watch Straps
+Brand: Oraimo
+Model: Oraimo Smart Watch Straps Pro
+Price (KES): 5,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality smart watch straps designed for durability and seamless daily use.
+
+Category: Bluetooth Headphones
+Brand: Oraimo
+Model: Oraimo Bluetooth Headphones Pro
+Price (KES): 9,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth headphones designed for durability and seamless daily use.
+
+Category: Smart Watches
+Brand: Ugreen
+Model: Ugreen Smart Watches Pro
+Price (KES): 3,000
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality smart watches designed for durability and seamless daily use.
+
+Category: Smart Watches
+Brand: JBL
+Model: JBL Smart Watches Pro
+Price (KES): 14,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality smart watches designed for durability and seamless daily use.
+
+Category: Smart Watches
+Brand: Oraimo
+Model: Oraimo Smart Watches Pro
+Price (KES): 6,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality smart watches designed for durability and seamless daily use.
+
+Category: Bluetooth Earbuds
+Brand: Anker
+Model: Anker Bluetooth Earbuds Pro
+Price (KES): 3,700
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth earbuds designed for durability and seamless daily use.
+
+Category: SIM Accessories
+Brand: Samsung
+Model: Samsung SIM Accessories Pro
+Price (KES): 13,800
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality sim accessories designed for durability and seamless daily use.
+
+Category: Wireless Chargers
+Brand: Apple
+Model: Apple Wireless Chargers Pro
+Price (KES): 13,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality wireless chargers designed for durability and seamless daily use.
+
+Category: Memory Cards
+Brand: Oraimo
+Model: Oraimo Memory Cards Pro
+Price (KES): 11,300
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality memory cards designed for durability and seamless daily use.
+
+Category: Lightning Cables
+Brand: Samsung
+Model: Samsung Lightning Cables Pro
+Price (KES): 6,000
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality lightning cables designed for durability and seamless daily use.
+
+Category: Screen Protectors
+Brand: Anker
+Model: Anker Screen Protectors Pro
+Price (KES): 14,700
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality screen protectors designed for durability and seamless daily use.
+
+Category: Power Banks
+Brand: Sony
+Model: Sony Power Banks Pro
+Price (KES): 3,100
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality power banks designed for durability and seamless daily use.
+
+Category: Type-C Cables
+Brand: Samsung
+Model: Samsung Type-C Cables Pro
+Price (KES): 5,800
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality type-c cables designed for durability and seamless daily use.
+
+Category: Memory Cards
+Brand: Anker
+Model: Anker Memory Cards Pro
+Price (KES): 12,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality memory cards designed for durability and seamless daily use.
+
+Category: Chargers
+Brand: JBL
+Model: JBL Chargers Pro
+Price (KES): 12,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality chargers designed for durability and seamless daily use.
+
+Category: USB Cables
+Brand: Baseus
+Model: Baseus USB Cables Pro
+Price (KES): 8,600
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality usb cables designed for durability and seamless daily use.
+
+Category: Lightning Cables
+Brand: Apple
+Model: Apple Lightning Cables Pro
+Price (KES): 4,700
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality lightning cables designed for durability and seamless daily use.
+
+Category: USB Cables
+Brand: JBL
+Model: JBL USB Cables Pro
+Price (KES): 1,000
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality usb cables designed for durability and seamless daily use.
+
+Category: SIM Accessories
+Brand: JBL
+Model: JBL SIM Accessories Pro
+Price (KES): 1,100
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality sim accessories designed for durability and seamless daily use.
+
+Category: Type-C Cables
+Brand: Apple
+Model: Apple Type-C Cables Pro
+Price (KES): 4,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality type-c cables designed for durability and seamless daily use.
+
+Category: Smart Watch Straps
+Brand: JBL
+Model: JBL Smart Watch Straps Pro
+Price (KES): 9,700
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality smart watch straps designed for durability and seamless daily use.
+
+Category: SIM Accessories
+Brand: Ugreen
+Model: Ugreen SIM Accessories Pro
+Price (KES): 4,300
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality sim accessories designed for durability and seamless daily use.
+
+Category: Smart Watches
+Brand: Samsung
+Model: Samsung Smart Watches Pro
+Price (KES): 11,900
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality smart watches designed for durability and seamless daily use.
+
+Category: Power Banks
+Brand: Generic
+Model: Generic Power Banks Pro
+Price (KES): 11,100
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality power banks designed for durability and seamless daily use.
+
+Category: SIM Accessories
+Brand: Anker
+Model: Anker SIM Accessories Pro
+Price (KES): 7,500
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality sim accessories designed for durability and seamless daily use.
+
+Category: Bluetooth Earbuds
+Brand: Baseus
+Model: Baseus Bluetooth Earbuds Pro
+Price (KES): 4,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth earbuds designed for durability and seamless daily use.
+
+Category: Smart Watch Straps
+Brand: Baseus
+Model: Baseus Smart Watch Straps Pro
+Price (KES): 3,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality smart watch straps designed for durability and seamless daily use.
+
+Category: SIM Accessories
+Brand: JBL
+Model: JBL SIM Accessories Pro
+Price (KES): 3,700
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality sim accessories designed for durability and seamless daily use.
+
+Category: Phone Cases
+Brand: Baseus
+Model: Baseus Phone Cases Pro
+Price (KES): 9,900
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality phone cases designed for durability and seamless daily use.
+
+Category: Wireless Chargers
+Brand: Ugreen
+Model: Ugreen Wireless Chargers Pro
+Price (KES): 15,000
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality wireless chargers designed for durability and seamless daily use.
+
+Category: Type-C Cables
+Brand: Samsung
+Model: Samsung Type-C Cables Pro
+Price (KES): 9,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality type-c cables designed for durability and seamless daily use.
+
+Category: Bluetooth Earbuds
+Brand: Oraimo
+Model: Oraimo Bluetooth Earbuds Pro
+Price (KES): 5,800
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth earbuds designed for durability and seamless daily use.
+
+Category: Bluetooth Earbuds
+Brand: Samsung
+Model: Samsung Bluetooth Earbuds Pro
+Price (KES): 4,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth earbuds designed for durability and seamless daily use.
+
+Category: Bluetooth Headphones
+Brand: Apple
+Model: Apple Bluetooth Headphones Pro
+Price (KES): 7,600
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth headphones designed for durability and seamless daily use.
+
+Category: USB Cables
+Brand: Oraimo
+Model: Oraimo USB Cables Pro
+Price (KES): 6,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality usb cables designed for durability and seamless daily use.
+
+Category: Smart Watches
+Brand: JBL
+Model: JBL Smart Watches Pro
+Price (KES): 8,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality smart watches designed for durability and seamless daily use.
+
+Category: Power Banks
+Brand: JBL
+Model: JBL Power Banks Pro
+Price (KES): 13,800
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality power banks designed for durability and seamless daily use.
+
+Category: Smart Watches
+Brand: JBL
+Model: JBL Smart Watches Pro
+Price (KES): 1,200
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality smart watches designed for durability and seamless daily use.
+
+Category: Memory Cards
+Brand: Baseus
+Model: Baseus Memory Cards Pro
+Price (KES): 12,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality memory cards designed for durability and seamless daily use.
+
+Category: Wireless Chargers
+Brand: Ugreen
+Model: Ugreen Wireless Chargers Pro
+Price (KES): 4,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality wireless chargers designed for durability and seamless daily use.
+
+Category: Bluetooth Earbuds
+Brand: Generic
+Model: Generic Bluetooth Earbuds Pro
+Price (KES): 11,400
+Compatibility: Universal / Smartphone
+Warranty: Applicable Warranty Provided
+Availability: In Stock
+Description: High-quality bluetooth earbuds designed for durability and seamless daily use.
+
