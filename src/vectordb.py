@@ -3,7 +3,7 @@ import os
 from typing import Any, Dict, List
 
 import chromadb
-from chromadb.utils import embedding_functions
+from sentence_transformers import SentenceTransformer
 
 logger = logging.getLogger(__name__)
 
@@ -41,11 +41,17 @@ class VectorDB:
 
         self.client = chromadb.PersistentClient(path=self.db_path)
 
-        self.embedding_fn = embedding_functions.DefaultEmbeddingFunction()
+        logger.info(
+            "Loading embedding model: %s",
+            self.embedding_model_name,
+        )
+
+        self.embedding_model = SentenceTransformer(
+            self.embedding_model_name
+        )
 
         self.collection = self.client.get_or_create_collection(
             name=self.collection_name,
-            embedding_function=self.embedding_fn,
             metadata={
                 "description": "RAG document collection"
             },
@@ -116,8 +122,12 @@ class VectorDB:
             logger.info("No documents to add.")
             return
 
+        embeddings = self.embedding_model.encode(all_chunks).tolist()
+
+
         self.collection.add(
             ids=all_ids,
+            embeddings=embeddings,
             metadatas=all_metadatas,
             documents=all_chunks
         )
@@ -133,8 +143,10 @@ class VectorDB:
         Search for similar documents.
         """
 
+        query_embedding = self.embedding_model.encode([query]).tolist()
+
         results = self.collection.query(
-            query_texts=[query],
+            query_embeddings=query_embedding,
             n_results=n_results,
         )
 
