@@ -44,45 +44,73 @@ The project strictly separates the client interface from the AI processing engin
 
 ---
 
-## 📦 Getting Started
+## 📦 Getting Started (Step-by-Step Guide)
 
-To run the full application locally, you must run both the Frontend and the AI Backend simultaneously in two separate terminal windows.
+To run the full application locally, you must run both the AI Backend (Python) and the Frontend (React) simultaneously in two separate terminal windows.
 
-### 1. Start the AI Backend (Terminal 1)
+### Prerequisites
+* Python 3.10+
+* Node.js (v18+) & npm
+* A [Groq API Key](https://console.groq.com/keys) (Free tier is sufficient)
 
+---
+
+### Step 1: Clone the Repository
+First, clone the project to your local machine and navigate into the directory:
+```bash
+git clone https://github.com/Abdullahi-Ai/osman-accessories-ai.git
+cd osman-accessories-ai
+```
+
+### Step 2: Start the AI Backend (Terminal 1)
 The Python backend acts as the "brain" for the Osman AI chat widget. It must be running for the chatbot to answer queries.
 
-1. Open a terminal in the root directory (`osman-accessories-ai`).
-2. Ensure your Python virtual environment is activated and dependencies from `requirements.txt` are installed.
-3. Copy the `.env.example` file to `.env` and add your AI API keys:
+1. **Create and activate a virtual environment:**
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate  
+   ```
+2. **Install the required Python packages:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Configure your API keys:**
+   Copy the example environment file to create your own local configuration:
    ```bash
    cp .env.example .env
    ```
-   *(Ensure you fill in the `GROQ_API_KEY` inside `.env`)*
-4. Run the startup script:
+   *Open the `.env` file in your code editor and provide your Groq API key:*
+   - `GROQ_API_KEY`: Required for the LLM.
+   *(Note: Do not commit your `.env` file containing real tokens!)*
+
+4. **Run the backend server:**
    ```bash
    ./start_backend.sh
    ```
-   *The backend will run on `http://0.0.0.0:8000` and is accessible across your local network.*
+   *(Alternatively, run `python -m uvicorn src.api:app --host 0.0.0.0 --port 8000`)*
 
-### 2. Start the Frontend Store (Terminal 2)
+The backend will now initialize the Vector Database (this takes a few seconds on the first run) and start on `http://localhost:8000`.
 
+---
+
+### Step 3: Start the Frontend Store (Terminal 2)
 The React frontend powers the main e-commerce interface and the chat UI.
 
-1. Open a new terminal and navigate to the frontend directory:
+1. **Open a new terminal window** and navigate to the frontend directory:
    ```bash
+   # From the project root directory:
    cd store
    ```
-2. Install dependencies:
+2. **Install the Node dependencies:**
    ```bash
    npm install
    ```
-3. Start the Vite development server:
+3. **Start the Vite development server:**
    ```bash
    npm run dev
    ```
 
-You can now open the provided `localhost` URL in your browser and test the store along with the AI Assistant!
+**🎉 You are all set!** Open the `http://localhost:5173` URL provided by Vite in your browser to test the premium storefront and interact with the AI Assistant!
 
 ---
 *Developed for Khalid & Osman Accessories — Redefining the premium shopping experience.*
