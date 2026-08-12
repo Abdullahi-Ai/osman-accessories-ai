@@ -5,7 +5,7 @@ Service Name: Smartphone Recommendations
 Description: Personalized smartphone recommendations based on your needs and budget.
 
 Service Name: Screen Protector Installation
-Description: Professional installation of screen protectors for all devices.
+Description: We offer screen protector installation as a service. We provide professional installation of screen protectors for all devices.
 
 Service Name: Phone Setup
 Description: Complete setup of your new smartphone to get you started.

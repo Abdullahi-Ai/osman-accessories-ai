@@ -153,6 +153,28 @@ class RAGAssistant:
         """
         self.vector_db.add_documents(documents)
 
+    def process_query(self, query: str) -> str:
+        """
+        Normalize and process the user query to improve retrieval.
+        - Normalize whitespace and case.
+        - Handle common misspellings.
+        """
+        if not query:
+            return ""
+        
+        query = " ".join(query.strip().split()).lower()
+        
+        replacements = {
+            "sumsung": "samsung",
+            "ipone": "apple iphone",
+            "iphone": "apple iphone",
+        }
+        
+        for k, v in replacements.items():
+            query = query.replace(k, v)
+            
+        return query
+
     def invoke(
         self,
         question: str,
@@ -168,8 +190,12 @@ class RAGAssistant:
         Returns:
             AI-generated response.
         """
+        if not question or not question.strip():
+            return "Please ask a valid question."
 
-        results = self.vector_db.search(query=question, n_results=n_results)
+        processed_query = self.process_query(question)
+
+        results = self.vector_db.search(query=processed_query, n_results=n_results)
         
         context = ""
         if results and results.get("documents") and results["documents"]:

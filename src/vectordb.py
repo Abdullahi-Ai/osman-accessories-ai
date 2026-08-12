@@ -4,6 +4,7 @@ from typing import Any, Dict, List
 
 import chromadb
 from sentence_transformers import SentenceTransformer
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 logger = logging.getLogger(__name__)
 
@@ -66,34 +67,18 @@ class VectorDB:
         self,
         text: str,
         chunk_size: int = 500,
+        chunk_overlap: int = 100,
     ) -> List[str]:
         """
-        Split text into smaller chunks based on word boundaries.
+        Split text into smaller chunks with overlap using LangChain's RecursiveCharacterTextSplitter.
+        Overlap preserves context between chunks, reducing information loss at boundaries.
         """
-
-        words = text.split()
-
-        chunks: List[str] = []
-        current_chunk: List[str] = []
-        current_length = 0
-
-        for word in words:
-
-            if current_length + len(word) + 1 > chunk_size:
-
-                chunks.append(" ".join(current_chunk))
-                current_chunk = [word]
-                current_length = len(word)
-
-            else:
-
-                current_chunk.append(word)
-                current_length += len(word) + 1
-
-        if current_chunk:
-            chunks.append(" ".join(current_chunk))
-
-        return chunks
+        splitter = RecursiveCharacterTextSplitter(
+            chunk_size=chunk_size,
+            chunk_overlap=chunk_overlap,
+            separators=["\n\n", "\n", " ", ""]
+        )
+        return splitter.split_text(text)
 
     def add_documents(
         self,
@@ -111,12 +96,13 @@ class VectorDB:
 
         for doc_idx, doc in enumerate(documents):
             chunks = self.chunk_text(doc.get("content", ""))
+            source = doc.get("metadata", {}).get("source", f"doc_{doc_idx}")
             for chunk_idx, chunk in enumerate(chunks):
                 all_chunks.append(chunk)
                 metadata = doc.get("metadata", {}).copy()
                 metadata["chunk_idx"] = chunk_idx
                 all_metadatas.append(metadata)
-                all_ids.append(f"doc_{doc_idx}_chunk_{chunk_idx}")
+                all_ids.append(f"{source}_chunk_{chunk_idx}")
 
         if not all_chunks:
             logger.info("No documents to add.")
@@ -125,7 +111,7 @@ class VectorDB:
         embeddings = self.embedding_model.encode(all_chunks).tolist()
 
 
-        self.collection.add(
+        self.collection.upsert(
             ids=all_ids,
             embeddings=embeddings,
             metadatas=all_metadatas,
@@ -138,9 +124,11 @@ class VectorDB:
         self,
         query: str,
         n_results: int = 5,
+        distance_threshold: float = 1.30,
     ) -> Dict[str, Any]:
         """
-        Search for similar documents.
+        Search for similar documents and apply a distance threshold
+        to filter out irrelevant chunks.
         """
 
         query_embedding = self.embedding_model.encode([query]).tolist()
@@ -150,4 +138,13 @@ class VectorDB:
             n_results=n_results,
         )
 
-        return results
+        filtered_results = {"documents": [[]], "metadatas": [[]], "distances": [[]]}
+        
+        if results and results.get("documents") and results["documents"][0]:
+            for doc, meta, dist in zip(results["documents"][0], results["metadatas"][0], results.get("distances", [[0]*n_results])[0]):
+                if dist <= distance_threshold:
+                    filtered_results["documents"][0].append(doc)
+                    filtered_results["metadatas"][0].append(meta)
+                    filtered_results["distances"][0].append(dist)
+
+        return filtered_results

@@ -1,0 +1,70 @@
+
+QUERY: 'Where is your shop located?'
+  Source: about.txt
+  Distance: 1.3494
+  Snippet: Business Name: Khalid & Osman Accessories
+--------------------
+  Source: about.txt
+  Distance: 1.4604
+  Snippet: variety, official brand warranties, knowledgeable staff, fas
+--------------------
+  Source: about.txt
+  Distance: 1.5701
+  Snippet: Business Name: Khalid & Osman Accessories Company Overview: 
+--------------------
+
+QUERY: 'What are your business hours?'
+  Source: about.txt
+  Distance: 1.5791
+  Snippet: • Trustworthiness • Professionalism • Quality • Customer Sat
+--------------------
+  Source: samsung.txt
+  Distance: 1.6520
+  Snippet: 5500mAh Charging: 120W Fast Charging Operating System: Andro
+--------------------
+  Source: about.txt
+  Distance: 1.6534
+  Snippet: Business Name: Khalid & Osman Accessories
+--------------------
+
+QUERY: 'What is your mission statement?'
+  Source: about.txt
+  Distance: 1.2728
+  Snippet: Vision: Become one of Kenya's most trusted mobile phone and 
+--------------------
+  Source: about.txt
+  Distance: 1.3204
+  Snippet: excellent customer support. The business values integrity be
+--------------------
+  Source: about.txt
+  Distance: 1.3551
+  Snippet: because we fear our Creator and believe honesty is the found
+--------------------
+
+QUERY: 'Do you accept M-Pesa?'
+  Source: about.txt
+  Distance: 1.4419
+  Snippet: Vision: Become one of Kenya's most trusted mobile phone and 
+--------------------
+  Source: about.txt
+  Distance: 1.4523
+  Snippet: Customer Commitment: We guarantee 100% genuine products with
+--------------------
+  Source: policies.txt
+  Distance: 1.5160
+  Snippet: Payment Policy: We accept standard secure payment methods.  
+--------------------
+
+QUERY: 'Do you offer screen protector installation?'
+  Source: accessories.txt
+  Distance: 1.2369
+  Snippet: Category: Screen Protectors Brand: Sony Model: Sony Screen P
+--------------------
+  Source: accessories.txt
+  Distance: 1.2387
+  Snippet: Category: Screen Protectors Brand: Generic Model: Generic Sc
+--------------------
+  Source: accessories.txt
+  Distance: 1.2634
+  Snippet: Category: Screen Protectors Brand: Anker Model: Anker Screen
+--------------------

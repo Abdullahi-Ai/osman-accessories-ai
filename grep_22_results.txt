@@ -1,0 +1,40 @@
+/home/osama/osman-accessories-ai/store/src/components/ProductGlyph.jsx:22
+/home/osama/osman-accessories-ai/store/src/components/ProductGlyph.jsx:22
+/home/osama/osman-accessories-ai/store/src/components/ProductGlyph.jsx:22
+/home/osama/osman-accessories-ai/store/src/assets/vite.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/vite.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/vite.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/vite.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:822
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:722
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:606 22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:32 22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:322
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:399 22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:193 22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:04 322
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:422
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:596 22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:422
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:122
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:622
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:625 0 22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:235 22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:86 22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:235 22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:86 22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:86 22
+/home/osama/osman-accessories-ai/store/src/assets/react.svg:22
+/home/osama/osman-accessories-ai/data/samsung.txt:22

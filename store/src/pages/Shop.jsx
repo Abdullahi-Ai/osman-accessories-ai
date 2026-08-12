@@ -32,7 +32,7 @@ export default function Shop() {
       if (sortBy === 'Lowest Price') return a.price - b.price
       if (sortBy === 'Highest Price') return b.price - a.price
       if (sortBy === 'Highest Rated') return b.rating - a.rating
-      return 0 // Featured
+      return 0
     })
   }, [searchTerm, selectedBrand, selectedCategory, sortBy, priceRange])
 

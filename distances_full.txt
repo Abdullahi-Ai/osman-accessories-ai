@@ -1,0 +1,70 @@
+
+QUERY: 'Where is your shop located?'
+  Best from about.txt: Dist: 1.3494
+    Snippet: Business Name: Khalid & Osman Accessories
+  Best from policies.txt: Dist: 1.5732
+    Snippet: excellent customer service and transparency.
+  Best from contact.txt: Dist: 1.6575
+    Snippet: Business Name: Khalid & Osman Accessories Location: Luthuli 
+  Best from oppo.txt: Dist: 1.6787
+  Best from infinix.txt: Dist: 1.6883
+  Best from services.txt: Dist: 1.7005
+    Snippet: we can recommend trusted professional repair technicians.
+  Best from samsung.txt: Dist: 1.7131
+  Best from tecno.txt: Dist: 1.7196
+  Best from iphone.txt: Dist: 1.7255
+  Best from accessories.txt: Dist: 1.7762
+    Snippet: Cases Brand: Baseus Model: Baseus Phone Cases Pro Price (KES
+
+QUERY: 'What are your business hours?'
+  Best from about.txt: Dist: 1.5791
+    Snippet: • Trustworthiness • Professionalism • Quality • Customer Sat
+  Best from samsung.txt: Dist: 1.6520
+  Best from policies.txt: Dist: 1.6689
+    Snippet: excellent customer service and transparency.
+  Best from iphone.txt: Dist: 1.6839
+  Best from infinix.txt: Dist: 1.6972
+  Best from contact.txt: Dist: 1.7157
+    Snippet: Business Name: Khalid & Osman Accessories Location: Luthuli 
+  Best from accessories.txt: Dist: 1.7346
+    Snippet: Universal / Smartphone Warranty: Applicable Warranty Provide
+  Best from oppo.txt: Dist: 1.7382
+  Best from tecno.txt: Dist: 1.7597
+
+QUERY: 'What is your mission statement?'
+  Best from about.txt: Dist: 1.2728
+    Snippet: Vision: Become one of Kenya's most trusted mobile phone and 
+  Best from policies.txt: Dist: 1.4125
+    Snippet: excellent customer service and transparency.
+  Best from samsung.txt: Dist: 1.6036
+  Best from iphone.txt: Dist: 1.6050
+  Best from oppo.txt: Dist: 1.6132
+  Best from infinix.txt: Dist: 1.6323
+  Best from tecno.txt: Dist: 1.6371
+
+QUERY: 'Do you accept M-Pesa?'
+  Best from about.txt: Dist: 1.4419
+    Snippet: Vision: Become one of Kenya's most trusted mobile phone and 
+  Best from policies.txt: Dist: 1.5160
+    Snippet: Payment Policy: We accept standard secure payment methods.  
+  Best from accessories.txt: Dist: 1.5717
+    Snippet: Protectors Brand: Ugreen Model: Ugreen Camera Protectors Pro
+  Best from oppo.txt: Dist: 1.5983
+  Best from contact.txt: Dist: 1.6386
+    Snippet: Business Name: Khalid & Osman Accessories Location: Luthuli 
+  Best from tecno.txt: Dist: 1.6450
+  Best from samsung.txt: Dist: 1.6710
+  Best from infinix.txt: Dist: 1.6856
+
+QUERY: 'Do you offer screen protector installation?'
+  Best from accessories.txt: Dist: 1.2369
+    Snippet: Category: Screen Protectors Brand: Sony Model: Sony Screen P
+  Best from services.txt: Dist: 1.3022
+    Snippet: Service Name: Product Consultation Description: Professional
+  Best from tecno.txt: Dist: 1.5573
+  Best from iphone.txt: Dist: 1.5686
+  Best from samsung.txt: Dist: 1.5714
+  Best from infinix.txt: Dist: 1.6021
+  Best from oppo.txt: Dist: 1.6027
+  Best from policies.txt: Dist: 1.6364
+    Snippet: Warranty Policy: Every smartphone sold comes with a verified
