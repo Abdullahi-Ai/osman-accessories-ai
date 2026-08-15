@@ -29,7 +29,7 @@ The practical goals of this project are:
 - **Sentence Transformers Embeddings:** Local embeddings using `all-MiniLM-L6-v2`.
 - **ChromaDB Persistent Vector Storage:** Saves embeddings locally for fast reboots.
 - **LangChain Prompt Orchestration:** Manages context injection and message history.
-- **Groq LLM:** Fast, highly capable LLM provider (`llama-3.1-8b-instant`).
+- **Groq LLM:** Fast, highly capable LLM provider (`openai/gpt-oss-20b`).
 - **Query Preprocessing:** Normalizes queries and protects against empty inputs.
 - **Typo Correction:** Fixes common product misspellings before retrieval.
 - **Duplicate-Ingestion Prevention:** Uses deterministic IDs and upsert logic.
@@ -150,7 +150,7 @@ Prompt engineering works together with retrieval; the prompt alone cannot preven
 ## 14. LLM
 
 - **Currently Active Provider:** Groq
-- **Active Model:** `llama-3.1-8b-instant`
+- **Active Model:** `openai/gpt-oss-20b`
 - **Optional Supported Providers:** OpenAI, Google Gemini (via environment variables).
 
 The LLM is NOT used as a knowledge database. Its sole responsibility is to generate a natural, conversational response based *only* on the retrieved context provided to it in the prompt.
